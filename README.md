@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Galina Georgieva
-- 👀 I’m interested in JavaScript and Python
+- 👀 I’m interested in Python and JavaScript
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on some beginner project or exercising.
 - 📫 How to reach me: on my email - galina_georgieva_net@abv.bg
