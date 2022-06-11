@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Galina Georgieva
+Hi 👋
+
 - 👀 I’m interested in Python and JavaScript
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on some beginner project or exercising.
