@@ -6,7 +6,7 @@
  - 💞️ I’m looking to collaborate on some beginner project or exercising.
  - 📫 How to reach me: on my email - galina_georgieva_net@abv.bg
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={GalkaKG}&theme=vue
+![image]({https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={GalkaKG}&theme=vue})
 
 <!---
 GalkaKG/GalkaKG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
