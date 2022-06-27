@@ -1,5 +1,5 @@
   
-  ### Hi 👋, Galina Georgieva
+  ### Hi 👋  I'm Galina 
   
    🔥 Interested in back-end development, automation, data science, ethical hacking and more.
 
