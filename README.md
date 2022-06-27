@@ -6,7 +6,10 @@
  - 💞️ I’m looking to collaborate on some beginner project or exercising.
  - 📫 How to reach me: on my email - galina_georgieva_net@abv.bg
 
-   ![image](https://user-images.githubusercontent.com/103485495/175935908-5bfe560c-cda0-4afd-b56a-bf798996b2c3.png) ![image](https://user-images.githubusercontent.com/103485495/175935957-de196d25-5e9d-4203-9fab-520fc2dc915d.png) ![image](https://user-images.githubusercontent.com/103485495/175936020-f51e91a9-a1a2-449a-a528-f0223442eecd.png)
+   ![image](https://user-images.githubusercontent.com/103485495/175935908-5bfe560c-cda0-4afd-b56a-bf798996b2c3.png) ![image](https://user-images.githubusercontent.com/103485495/175935957-de196d25-5e9d-4203-9fab-520fc2dc915d.png) ![image](https://user-images.githubusercontent.com/103485495/175936020-f51e91a9-a1a2-449a-a528-f0223442eecd.png) ![image](https://user-images.githubusercontent.com/103485495/175936318-3a72144f-99a9-4ef7-b684-cad501d475fa.png) ![image](https://user-images.githubusercontent.com/103485495/175936365-0ada1805-fe60-4255-97af-72a8dea8dc35.png) ![image](https://user-images.githubusercontent.com/103485495/175936422-2486bbba-9539-413c-825c-f48281bc62cc.png)
+
+
+
 
 
 
