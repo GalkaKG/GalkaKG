@@ -1,8 +1,7 @@
   
   ### Hi 👋, Galina Georgieva
   
-   I'm interested in Ethical Hacking, Backend Development, Machine learning and more...
-
+   🔥 Interested in back-end development, automation, data science, ethical hacking and AI.
 
 ## Skills: 
 ![image](https://user-images.githubusercontent.com/103485495/175953811-a2809308-2b17-437a-95f1-48ce1368a0d1.png)
