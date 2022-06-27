@@ -9,7 +9,7 @@
 ![image](https://user-images.githubusercontent.com/103485495/175954035-35258ce4-aea2-4b2e-9f22-8b932d69f3f5.png)
 
 
- ## Contact me here 👇
+ ## You can contact with me here:
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GalkaKG)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/galina-georgieva-12a6a7113/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/galina.georgieva.net) 
 
   
