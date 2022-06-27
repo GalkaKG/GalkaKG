@@ -1,4 +1,4 @@
-  ### Hi 👋
+  ### Hi there👋
   
   I'm Galina from Bulgaria, and I'm currently learning Python at www.softuni.bg 💻
   
