@@ -1,5 +1,7 @@
   
   ### Hi 👋, Galina Georgieva
+  
+   I'm interested in Ethical Hacking, Backend Development, Machine learning and more...
 
 
 ## Skills: 
