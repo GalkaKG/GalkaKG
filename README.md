@@ -1,7 +1,7 @@
   
   ### Hi 👋, Galina Georgieva
 #### Development
-![Development](https://github.com/GalkaKG)
+
 
 I'm currently learning Python at www.softuni.bg 💻
 
