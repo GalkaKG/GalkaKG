@@ -1,5 +1,5 @@
   
-  ### Hi 👋  I'm Galina 
+  ### Hi 👋  
   
    🔥 Interested in back-end development, automation, data science, ethical hacking and more.
 
