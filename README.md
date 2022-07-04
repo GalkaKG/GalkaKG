@@ -1,7 +1,7 @@
   
   ### Hi 👋  I'm Galina 🙂
   
-   🔥 I'm interested in back-end development, ethical hacking, neural network, AI and more.
+   🔥 I'm interested in back-end development, ethical hacking, neural network and AI.
 
 ## Skills: 
 ![image](https://user-images.githubusercontent.com/103485495/175953811-a2809308-2b17-437a-95f1-48ce1368a0d1.png)
