@@ -14,10 +14,10 @@
  ## You can contact with me here:
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GalkaKG)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/galina-georgieva-12a6a7113/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/galina.georgieva.net) 
 
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GalkaKG)](https://github.com/anuraghazra/github-readme-stats)
+ 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GalkaKG&show_icons=true&theme=cobalt)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GalkaKG)](https://github.com/anuraghazra/github-readme-stats)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GalkaKG&show_icons=true&theme=onedark)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GalkaKG)](https://github.com/anuraghazra/github-readme-stats)
 
   
 
