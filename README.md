@@ -1,5 +1,5 @@
   
-  ### Hi everyone, I'm Galina 👋 ![image](https://user-images.githubusercontent.com/103485495/185587183-5cb8f856-01cc-4d12-9bb9-8ed1e7857128.png)
+  ### Hi everyone, I'm Galina 👋 🙂
 
   
   
