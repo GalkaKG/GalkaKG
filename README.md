@@ -1,6 +1,6 @@
   
   ### Hi 👋  I'm Galina 🙂 
-  <img src "https://camo.githubusercontent.com/80ecdc71d9824b2cf3df04365ed523dd06283337b5a8497e0871b2d76840dfc1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f496243637378506d78477a4b7567416137302f67697068792e676966" align="center"/>
+  <img src "" align="center"/>
   
    🔥 I'm interested in back-end development, ethical hacking, neural network and AI.
 
