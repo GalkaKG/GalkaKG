@@ -1,5 +1,5 @@
   
-  ### Hi 👋  I'm Galina 🙂 
+  ### Hi everyone 👋  I'm Galina 🙂 
   
   
   ![](https://github.com/GalkaKG/GalkaKG/blob/main/gif%20for%20my%20readme.gif)
