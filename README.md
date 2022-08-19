@@ -1,6 +1,6 @@
   
   ### Hi 👋  I'm Galina 🙂 
-  <img src "" align="center"/>
+ 
   
    🔥 I'm interested in back-end development, ethical hacking, neural network and AI.
 
