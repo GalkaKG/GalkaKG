@@ -2,6 +2,9 @@
   ### Hi 👋  I'm Galina 🙂 
   
   
+  ![](https://github.com/GalkaKG/GalkaKG/blob/main/gif%20for%20my%20readme.gif)
+  
+  
   
   🔥 I'm interested in back-end development, ethical hacking, neural network and AI.
 
