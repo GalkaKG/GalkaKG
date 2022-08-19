@@ -1,13 +1,13 @@
   
   ### Hi everyone, I'm Galina 👋 🙂
+  
 
+  🔥 I'm interested in back-end development, data science, ethical hacking, neural network, AI and more.
   
   
   ![](https://github.com/GalkaKG/GalkaKG/blob/main/gif%20for%20my%20readme.gif)
   
   
-  
-  🔥 I'm interested in back-end development, data science, ethical hacking, neural network, AI and more.
 
 ## Skills: 
 ![image](https://user-images.githubusercontent.com/103485495/175953811-a2809308-2b17-437a-95f1-48ce1368a0d1.png)
