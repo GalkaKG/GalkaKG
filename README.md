@@ -5,7 +5,7 @@
   ![](https://github.com/GalkaKG/GalkaKG/blob/main/gif%20for%20my%20readme.gif)
   
   
-   🔥 I'm interested in back-end development, data science, ethical hacking, neural network, AI and more.
+   🔥 I'm interested in back-end development, data science, ethical hacking, neural network and more.
   
   
 
