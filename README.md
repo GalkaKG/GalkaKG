@@ -1,9 +1,7 @@
 ### Hi 👋 I'm Galina :)
 <!-- <h1> Hi 👋 I'm Galina :) </h1> -->
 
- ![](style.css)
-
-<body>
+ 
    
   ![](https://github.com/GalkaKG/GalkaKG/blob/main/gif%20for%20my%20readme.gif)
   
@@ -53,4 +51,3 @@ You can click the Preview link to take a look at your changes.
 
 --->
    
-  </body>
