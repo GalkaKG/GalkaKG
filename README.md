@@ -1,5 +1,5 @@
 
-<h1 style="background-color:powderblue;"> Hi 👋 I'm Galina :) </h1>
+<h1> Hi 👋 I'm Galina :) </h1>
 
    
   ![](https://github.com/GalkaKG/GalkaKG/blob/main/gif%20for%20my%20readme.gif)
