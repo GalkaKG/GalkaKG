@@ -8,7 +8,6 @@
   
    🔥 I'm interested in back-end development; data science, machine learning, automation, AI; cyber security, ethical hacking.
   
-    
   
 
 ## Skills: 
