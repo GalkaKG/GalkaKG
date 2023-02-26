@@ -21,7 +21,7 @@
 ![image](https://user-images.githubusercontent.com/103485495/176710765-2a0be393-e7a1-4cd5-b651-2249724665e8.png)
  -->
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,vscode,atom,postgres,mysql,docker,bootstrap,django,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,vscode,postgres,mysql,docker,django,flask)](https://skillicons.dev)
 
 
 
