@@ -1,5 +1,6 @@
 
-.wave {
+<stye>
+  .wave {
   animation-name: wave-animation;  /* Name of @keyframes element below */
   animation-duration: .75s;  /* Wave speed */
   animation-iteration-count: infinite;
@@ -20,3 +21,5 @@
   75% { transform: rotate( 12deg ) }
   100% { transform: rotate( 0deg ) }
 }
+
+</style>
