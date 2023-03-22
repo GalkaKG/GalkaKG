@@ -1,4 +1,4 @@
-### Hi <span class="wave">👋</span> I'm Galina :)
+### Hi <span class="wave">👋</span> <span class="my-name">I'm Galina</span> :)
 <!-- <h1> Hi 👋 I'm Galina :) </h1> -->
 
    
