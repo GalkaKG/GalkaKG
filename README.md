@@ -1,16 +1,13 @@
-### Hi <span class="wave">👋</span> <span class="my-name">I'm Galina</span> :)
+### Hi 👋 I'm Galina :)
 <!-- <h1> Hi 👋 I'm Galina :) </h1> -->
 
    
   ![](https://github.com/GalkaKG/GalkaKG/blob/main/gif%20for%20my%20readme.gif)
  
  
-
- 
   
   
    🔥 I'm interested in back-end development; data science, machine learning, automation, AI; cyber security, ethical hacking.
-  
   
   
   
@@ -38,17 +35,11 @@
 
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GalkaKG&show_icons=true&theme=highcontrast)
-<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GalkaKG)](https://github.com/anuraghazra/github-readme-stats)  -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GalkaKG)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 
 
 
-<!---
-GalkaKG/GalkaKG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
---->
-
-  <img src="file.svg" alt="" /> 
+ 
  
