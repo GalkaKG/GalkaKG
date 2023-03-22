@@ -1,7 +1,6 @@
 ### Hi <span class="wave">👋</span> I'm Galina :)
 <!-- <h1> Hi 👋 I'm Galina :) </h1> -->
 
- <img src="./file.svg" alt="" /> 
    
   ![](https://github.com/GalkaKG/GalkaKG/blob/main/gif%20for%20my%20readme.gif)
  
