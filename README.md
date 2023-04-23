@@ -39,7 +39,7 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GalkaKG&show_icons=true&theme=highcontrast)
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GalkaKG)](https://github.com/anuraghazra/github-readme-stats)  -->
 
-
+![](https://github.com/GalkaKG/GalkaKG/blob/main/HTML%20%26%20CSS%20-%20January%202023%20-%20Certificate.jpeg)
 
 
 
