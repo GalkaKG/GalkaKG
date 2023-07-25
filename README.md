@@ -1,5 +1,5 @@
 <!-- ### Hi 👋 I'm Galina :) -->
-<h1 style="font-family: Poppins;"> Hi 👋 I'm Galina :) </h1> 
+<h1> Hi 👋 I'm Galina :) </h1> 
 
    
    
