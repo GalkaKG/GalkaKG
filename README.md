@@ -1,12 +1,9 @@
 ### Hi 👋 I'm Galina :) 
-
-   
+ 
    
   ![](https://github.com/GalkaKG/GalkaKG/blob/main/gif%20for%20my%20readme.gif)
- 
 
 
- 
  
    🔥 I'm interested in back-end development; data science, machine learning, automation, AI; cyber security, ethical hacking.
   
