@@ -13,7 +13,7 @@
 ![image](https://user-images.githubusercontent.com/103485495/176710765-2a0be393-e7a1-4cd5-b651-2249724665e8.png)
  -->
 
-[![My Skills](https://skillicons.dev/icons?i=py,php,js,html,css,vscode,linux,postgres,mysql,mongo,django,flask,docker,git,gitlab,aws,activedirectory)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,php,js,html,css,vscode,linux,postgres,mysql,mongo,django,flask,docker,git,gitlab,aws)](https://skillicons.dev)
 
 
 
