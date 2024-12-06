@@ -31,3 +31,12 @@
 
  
  
+<!--   GitHub stats graph -->
+
+### 📈 GitHub Activity Graph:
+
+<!--   green snake -->
+
+![GalkaKG's github activity graph](https://raw.githubusercontent.com/GalkaKG/GalkaKG/output/github-contribution-grid-snake.svg)
+
+<!--   stats + languages -->
