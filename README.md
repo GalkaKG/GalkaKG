@@ -1,5 +1,4 @@
-# Hi 👋 <br/>
-# I'm Galina 🙂
+<h1 style="text-align:center;"> Hi 👋  I'm Galina 🙂 </h1>
     
   ![](https://github.com/GalkaKG/GalkaKG/blob/main/gif%20for%20my%20readme.gif)
 
