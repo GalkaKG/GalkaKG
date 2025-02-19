@@ -5,9 +5,12 @@
  
    <!-- 🔥I'm interested in back-end development; data science, machine learning, automation, AI; cyber security, ethical hacking. -->
 
-   🧠Backend developer, data scientist, and AI engineer. <br/>
-   🔥Passionate about building things, solving problems with data, and diving into AI. <br/>
-   🛡️Cybersecurity and ethical hacking are my side interests. Forever curious! <br/>
+
+    🧠 I'm a backend developer, data scientist, and AI engineer.
+    ✨ --- ✨
+    🔥 Passionate about building things, solving problems with data, and diving into AI.
+    ✨ --- ✨
+    🛡️⚔️ Cybersecurity and ethical hacking are my side interests. Forever curious! 🔍
   
 
 ## Skills: 
