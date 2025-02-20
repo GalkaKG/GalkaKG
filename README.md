@@ -1,16 +1,16 @@
 <h1 style="text-align:center;"> Hi 👋  I'm Galina 🙂 </h1>
-    
-  ![](https://github.com/GalkaKG/GalkaKG/blob/main/gif%20for%20my%20readme.gif)
-
- 
-   <!-- 🔥I'm interested in back-end development; data science, machine learning, automation, AI; cyber security, ethical hacking. -->
-
 
 🧠 I'm a backend developer, data scientist, and AI engineer. <br/>
 ✨ --- ✨ <br/>
 🔥 Passionate about building things, solving problems with data, and diving into AI. <br/>
 ✨ --- ✨ <br/>
 🛡️⚔️ Cybersecurity and ethical hacking are my side interests. Forever curious! 🔍 <br/>
+    
+  ![](https://github.com/GalkaKG/GalkaKG/blob/main/gif%20for%20my%20readme.gif)
+
+ 
+   <!-- 🔥I'm interested in back-end development; data science, machine learning, automation, AI; cyber security, ethical hacking. -->
+
   
 
 ## Skills: 
