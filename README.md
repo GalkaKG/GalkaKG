@@ -32,7 +32,7 @@
  [<img src="https://skillicons.dev/icons?i=twitter"/>](https://twitter.com/GalinaKrG)
 
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GalkaKG&show_icons=true&theme=highcontrast)
+<!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GalkaKG&show_icons=true&theme=highcontrast) -->
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GalkaKG)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 
