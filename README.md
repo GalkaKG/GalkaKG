@@ -27,7 +27,7 @@
 <!-- [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,vscode,postgres,mysql,docker,django,flask&theme=light)](https://skillicons.dev) -->
 
 
- ## You can contact me here:
+ ## You can reach me here:
  [<img src="https://skillicons.dev/icons?i=linkedin"/>](https://www.linkedin.com/in/galina-georgieva-12a6a7113/) 
  [<img src="https://skillicons.dev/icons?i=twitter"/>](https://twitter.com/GalinaKrG)
 
