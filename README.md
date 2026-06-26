@@ -25,7 +25,7 @@ I'm most proficient using the following languages and technologies:
   
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,js,html,css,vscode,linux,postgres,mysql,django,flask,docker,git,aws,tensorflow,pytorch" />
+        <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,js,html,css,vscode,linux,postgres,mysql,django,flask,docker,git,aws" />
     </a>
 </p>
 
