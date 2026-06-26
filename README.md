@@ -29,7 +29,7 @@
 
  ## You can reach me through:
  [<img src="https://skillicons.dev/icons?i=linkedin"/>](https://www.linkedin.com/in/galina-georgieva-12a6a7113/) 
-[<img src="https://skillicons.dev/icons?i=twitter"/>](https://twitter.com/GalinaKrG) 
+<!--[<img src="https://skillicons.dev/icons?i=twitter"/>](https://twitter.com/GalinaKrG)  -->
 
 
 <!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GalkaKG&show_icons=true&theme=highcontrast) -->
